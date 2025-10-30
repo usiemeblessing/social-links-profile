@@ -4,18 +4,18 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ## Table of contents
 
--   [Frontend Mentor - Social links profile solution](#frontend-mentor---social-links-profile-solution)
-    -   [Table of contents](#table-of-contents)
-    -   [Overview](#overview)
-        -   [The challenge](#the-challenge)
-        -   [Screenshot](#screenshot)
-        -   [Links](#links)
-    -   [My process](#my-process)
-        -   [Built with](#built-with)
-        -   [What I learned](#what-i-learned)
-        -   [Continued development](#continued-development)
-        -   [Useful resources](#useful-resources)
-    -   [Author](#author)
+- [Frontend Mentor - Social links profile solution](#frontend-mentor---social-links-profile-solution)
+  - [Table of contents](#table-of-contents)
+  - [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+  - [Author](#author)
 
 ## Overview
 
@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://github.com/usiemeblessing/social-links-profile]
+-   Live Site URL: [usieme-social-links-profile-project.netlify.app]
 
 ## My process
 
@@ -64,8 +64,8 @@ I’d like to keep improving my skills in responsive design, especially using mo
 
 ### Useful resources
 
--   [Example resource 1](https://www.w3schools.com) - This helped me refresh my memory on flex display property.
+-   [https://www.w3schools.com)] - This helped me refresh my memory on flex display property.
 
 ## Author
 
--   Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/usiemeblessing)
+-   Frontend Mentor - [@usiemeblessing]
