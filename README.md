@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [https://github.com/usiemeblessing/social-links-profile]
--   Live Site URL: [usieme-social-links-profile-project.netlify.app]
+-   Solution URL: [https://github.com/usiemeblessing/social-links-profile](https://your-solution-url.com)
+-   Live Site URL: [usieme-social-links-profile-project.netlify.app](https://your-live-site-url.com)
 
 ## My process
 
@@ -64,8 +64,8 @@ I’d like to keep improving my skills in responsive design, especially using mo
 
 ### Useful resources
 
--   [https://www.w3schools.com)] - This helped me refresh my memory on flex display property.
+-   [https://www.w3schools.com)](https://www.w3schools.com) - This helped me refresh my memory on flex display property.
 
 ## Author
 
--   Frontend Mentor - [@usiemeblessing]
+-   Frontend Mentor - [@usiemeblessing](https://www.frontendmentor.io/profile/usiemeblessing)
