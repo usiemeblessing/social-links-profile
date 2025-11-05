@@ -12,13 +12,17 @@ body {
 
 #links-profile-container {
 	margin: 2.5rem auto;
-	width: 384px;
-	/* height: 620px; */
+	width: 100%;
+	max-width: 384px;
 	background-color: #141414;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	border-radius: 8px;
+}
+
+#links-profile-container:hover {
+	border: 1px solid #c5f82a;
 }
 
 .avatar-img img {
@@ -65,11 +69,10 @@ body {
 	background-color: #333333;
 	text-decoration: none;
 	color: #ffffff;
-	width: 304px;
-	height: 45px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+	width: 100%;
+	padding: 1rem 5rem;
+	display: inline-block;
+	text-align: center;
 	border-radius: 8px;
 	font-weight: 700;
 	transition: all 0.2s ease-in;
@@ -89,9 +92,5 @@ body {
 
 	.profile-links-container {
 		width: 80%;
-	}
-
-	.links-menu li a {
-		width: 100%;
 	}
 }
